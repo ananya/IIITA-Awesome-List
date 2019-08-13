@@ -9,7 +9,7 @@
 
 ## Table of Contents
 * [Artificial Inteligence](#artificial-inteligence)
-* [Blockchain/Cryptocurrency](#blockchain/cryptocurrency)
+* [Blockchain and Cryptocurrency](#blockchain-and-cryptocurrency)
 * [Command Line Tools](#command-line-tools)
 * [Awesome Lists](#awesome-lists)
 * [Webapps](#webapps)
@@ -21,10 +21,10 @@
 ## Artificial Inteligence
 | Project | Description |Type of Application | Makers | Technology Used |  
 |---------|-------------|--------------------|--------|-----------------|  
-| [Anna](https://github.com/Anna-Assistant/Anna) | Virtual Assistant on Google Chrome :elephant: | Chrome Extension | Gautham Santhosh | Api.Ai, Javascript |  
+| [Anna](https://github.com/Anna-Assistant/Anna) |Virtual Assistant on Google Chrome:elephant:| Chrome Extension | Gautham Santhosh | Api.Ai, Javascript |  
 
 
-## Blockchain/Cryptocurrency
+## Blockchain and Cryptocurrency
 | Project | Description |Type of Application | Makers | Technology Used |  
 |---------|-------------|--------------------|--------|-----------------|  
 | [Ayyo](https://github.com/gauthamzz/ayyo) | A Paywall with Single line of code using ERC 721 | | Gautham Santhosh | |  
