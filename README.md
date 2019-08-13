@@ -4,9 +4,8 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://books.zulipchat.com)
 
 
-[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hackerkid)
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/)
 
-> Curated list of mind expanding books.
 
 ## Table of Contents
 * [Artificial Inteligence](#artificial-inteligence)
@@ -46,7 +45,6 @@
 ## Webapps
 | Project | Description |Type of Application | Makers | Technology Used |  
 |---------|-------------|--------------------|--------|-----------------|  
-| [Pelican](https://github.com/aviary-apps/Pelican) | Chrome extension for better Facebook | Gautham Santhosh | Javasript, Jquery |  
 | [Gitstalk](https://github.com/thelittlewonder/gitstalk) | Discover who's upto what on Github | | Abhishek Sharma | |
 | [GPA Calculator](https://github.com/thelittlewonder/gpacalculator) | GPA Calculator for IIITA Curriculum | | Abhishek Sharma | |
 | [Peerdium](https://github.com/hackerkid/peerdium) | Decentralized P2P Publishing Using Browser Cache & Torrents :heart: | | Vishnu Ks | |
@@ -56,7 +54,7 @@
 ## Mobile Apps
 | Project | Description |Type of Application | Makers | Technology Used |  
 |---------|-------------|--------------------|--------|-----------------|  
-| [Pelican](https://github.com/aviary-apps/Pelican) | Chrome extension for better Facebook | Gautham Santhosh | Javasript, Jquery |  
+| [ZapTap](https://github.com/betterclever/ZapTap) | Cross Platform Game made in libGDX | | Pranjal Paliwal | |
 
 
 ## Miscelaneous
@@ -68,19 +66,8 @@
 | [Motivate](https://github.com/mubaris/motivate) | A simple script to print random motivational quotes | | Mubaris NK | |
 | [Flatabulous](https://github.com/anmoljagetia/Flatabulous) | Flat theme for Ubuntu and other Gnome based Linux Systems | | Anmol Jagetia | |
 | [Youtube Queue Extension](https://github.com/adeora7/youtube_queue_extension) | chrome extension to queue youtube songs | | Abhishek Deora | |
-| [ZapTap](https://github.com/betterclever/ZapTap) | Cross Platform Game made in libGDX | | Pranjal Paliwal | |
 | [Cynthesize](https://github.com/Cynthesize) |  Bridge the gap between mentors and students in various fields | | Siddhanth Srivastava | |
-| [Dexter](https://github.com/) | Let | | Ab | |
-| [Dexter](https://github.com/) | Let | | Ab | |
-| [Dexter](https://github.com/) | Let | | Ab | |
-| [Dexter](https://github.com/) | Let | | Ab | |
-| [Dexter](https://github.com/) | Let | | Ab | |
-| [Dexter](https://github.com/) | Let | | Ab | |
-| [Dexter](https://github.com/) | Let | | Ab | |
-| [Dexter](https://github.com/) | Let | | Ab | |
-| [Dexter](https://github.com/) | Let | | Ab | |
-| [Dexter](https://github.com/) | Let | | Ab | |
-
+| [Pelican](https://github.com/aviary-apps/Pelican) | Chrome extension for better Facebook | Chrome Extension |Gautham Santhosh | Javasript, Jquery |  
 
 
 
