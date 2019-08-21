@@ -1,5 +1,6 @@
 # :sunglasses:IIITA Awesome List
 
+[Contribution Guidelines](https://github.com/ananya/IIITA-Awesome-List/blob/master/CONTRIBUTING.md)
 
 ## Table of Contents
 * [Artificial Inteligence](#artificial-inteligence)
