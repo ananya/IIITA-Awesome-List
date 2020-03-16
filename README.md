@@ -38,7 +38,7 @@
 | Project | Description |Type of Application | Makers | Technology Used |  
 |---------|-------------|--------------------|--------|-----------------|  
 | [ProxyMan](https://github.com/himanshub16/ProxyMan) | Configuring proxy settings made easy | Script | [Himanshu Shekhar](https://github.com/himanshub16) | |
-| [Motivate](https://github.com/mubaris/motivate) | A simple script to print random motivational quotes | | Mubaris NK | |
+| [Motivate](https://github.com/mubaris/motivate) | A simple script to print random motivational quotes | | [Mubaris NK](https://github.com/mubaris) | |
 
 ## Chrome Extensions
 
