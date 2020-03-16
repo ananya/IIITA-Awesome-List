@@ -52,7 +52,7 @@
 ## Libraries
 | Project | Description |Type of Application | Makers | Technology Used |  
 |---------|-------------|--------------------|--------|-----------------|  
-| [Zifi](https://github.com/mubaris/zifi) | Make Stories everywhere using React :heart_eyes: | | Mubaris NK | |
+| [Zifi](https://github.com/mubaris/zifi) | Make Stories everywhere using React :heart_eyes: | | [Mubaris NK](https://github.com/mubaris) | |
 
 
 ## Mobile Apps
