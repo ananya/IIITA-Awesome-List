@@ -12,7 +12,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as your's may be a duplicate.
 - Anyone can add a project
-- Use the following format: `| Project | Description |Type of Application | Makers | Technology Used |`
+- Use the following format: `| Project | Description |Makers | 
 - Mention in pull request clearly why you think the project deserve to be in the list.
 
 Thank you!
