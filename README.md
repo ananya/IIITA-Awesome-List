@@ -32,6 +32,7 @@
 |---------|-------------|--------------------|--------|-----------------|  
 | [Ayyo](https://github.com/gauthamzz/ayyo) | A Paywall with Single line of code using ERC 721 | | [Gautham Santhosh](https://github.com/gauthamzz) | |  
 | [Peerdium](https://github.com/hackerkid/peerdium) | Decentralized P2P Publishing Using Browser Cache & Torrents :heart: | | [Vishnu Ks](https://github.com/hackerkid) | |
+| [Safeguard](https://safeguard.icu) | Decentralized Password Manager 🛡 | Blockstack, React.js, Including Chrome Extension | [Gautham Santhosh](https://github.com/gauthamzz) | |
 
 
 ## Command Line Tools
