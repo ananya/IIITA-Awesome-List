@@ -3,6 +3,7 @@
 [Contribution Guidelines](https://github.com/ananya/IIITA-Awesome-List/blob/master/CONTRIBUTING.md)
 
 ## Table of Contents
+* [Webapps](#webapps)
 * [Artificial Inteligence](#artificial-inteligence)
 * [Awesome Lists](#awesome-lists)
 * [Blockchain or decentralised](#blockchain-or-decentralised)
@@ -10,10 +11,20 @@
 * [Chrome Extensions](#chrome-extensions)
 * [Libraries](#libraries)
 * [Mobile Apps](#mobile-apps)
-* [Webapps](#webapps)
 * [Miscellaneous](#miscellaneous)
 
 # Projects
+
+
+## Webapps
+| Project | Description |Type of Application | Makers | Technology Used |  
+|---------|-------------|--------------------|--------|-----------------| 
+| [Feature Monkey](https://www.featuremonkey.com/) | The feedback tracker for building better features🙈 | SaaS |  [Gautham Santhosh](https://github.com/gauthamzz), [Ananya Agrawal](https://github.com/ananya) | Django, JavaScript, Redis, Postgres  |
+| [Curiosity](https://github.com/mubaris/curiosity) | Find Amazing Github :octocat: Projects :zap: | | Mubaris NK | |
+| [Gitstalk](https://github.com/thelittlewonder/gitstalk) | Discover who's upto what on Github | | [Abhishek Sharma](https://github.com/thelittlewonder) | |
+| [GPA Calculator](https://github.com/thelittlewonder/gpacalculator) | GPA Calculator for IIITA Curriculum | | [Abhishek Sharma](https://github.com/thelittlewonder) | |
+| [Wikifeedia](https://github.com/hackerkid/Wikifeedia) | Wikipedia turned into a newsfeed :umbrella: |
+| [Cynthesize](https://github.com/Cynthesize) |  Bridge the gap between mentors and students in various fields | | [Siddhanth Srivastava](https://github.com/WickedBrat) | |
 
 ## Artificial Inteligence
 | Project | Description |Type of Application | Makers | Technology Used |  
@@ -30,9 +41,10 @@
 ## Blockchain or Decentralised
 | Project | Description |Type of Application | Makers | Technology Used |  
 |---------|-------------|--------------------|--------|-----------------|  
-| [Ayyo](https://github.com/gauthamzz/ayyo) | A Paywall with Single line of code using ERC 721 | | [Gautham Santhosh](https://github.com/gauthamzz) | |  
-| [Peerdium](https://github.com/hackerkid/peerdium) | Decentralized P2P Publishing Using Browser Cache & Torrents :heart: | | [Vishnu Ks](https://github.com/hackerkid) | |
-| [Safeguard](https://safeguard.icu) | Decentralized Password Manager 🛡 | Blockstack, React.js, Including Chrome Extension | [Gautham Santhosh](https://github.com/gauthamzz) | |
+| [Ayyo](https://github.com/gauthamzz/ayyo) | A Paywall with Single line of code using ERC 721 | | [Gautham Santhosh](https://github.com/gauthamzz) | Ethereum, JavaScript |  
+| [Peerdium](https://github.com/hackerkid/peerdium) | Decentralized P2P Publishing Using Browser Cache & Torrents :heart: | | [Vishnu Ks](https://github.com/hackerkid) | Web Torrent |
+| [Safeguard](https://safeguard.icu) | Decentralized Password Manager 🛡 | Decentralised Webapp Including Chrome Extension | [Gautham Santhosh](https://github.com/gauthamzz) | Blockstack, React.js |
+| [Vimana](https://vimana.netlify.com/) | Decentralised AI 🛩 | Web app | [Gautham Santhosh](https://github.com/gauthamzz) | Tendermint, Python, Keras|
 
 
 ## Command Line Tools
@@ -61,15 +73,6 @@
 |---------|-------------|--------------------|--------|-----------------|  
 | [ZapTap](https://github.com/betterclever/ZapTap) | Cross Platform Game made in libGDX | | [Pranjal Paliwal](https://github.com/betterclever) | |
 
-
-## Webapps
-| Project | Description |Type of Application | Makers | Technology Used |  
-|---------|-------------|--------------------|--------|-----------------|  
-| [Curiosity](https://github.com/mubaris/curiosity) | Find Amazing Github :octocat: Projects :zap: | | Mubaris NK | |
-| [Gitstalk](https://github.com/thelittlewonder/gitstalk) | Discover who's upto what on Github | | [Abhishek Sharma](https://github.com/thelittlewonder) | |
-| [GPA Calculator](https://github.com/thelittlewonder/gpacalculator) | GPA Calculator for IIITA Curriculum | | [Abhishek Sharma](https://github.com/thelittlewonder) | |
-| [Wikifeedia](https://github.com/hackerkid/Wikifeedia) | Wikipedia turned into a newsfeed :umbrella: |
-| [Cynthesize](https://github.com/Cynthesize) |  Bridge the gap between mentors and students in various fields | | [Siddhanth Srivastava](https://github.com/WickedBrat) | |
 
 
 ## Miscellaneous
